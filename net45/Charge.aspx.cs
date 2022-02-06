@@ -19,8 +19,8 @@ namespace RazorpaySampleApp
         protected void Page_Load(object sender, EventArgs e)
         {
 
-            string key = "rzp_test_2pjQoIV7c1RY6C";
-            string secret = "nWwe91xQO3NIDzJUp1mUmr9O";
+            string key = "rzp_test_xxxxx";
+            string secret = "xxxxxxxxxxx";
             string receivedSignature = Request.Params["razorpay_signature"];
             string paymentLinkRefId = Request.Params["razorpay_payment_link_reference_id"];
             string paymentLinkId = Request.Params["razorpay_payment_link_id"];
