@@ -1,0 +1,34 @@
+/Users/soubhagyalaxmig/Downloads/razorpay-sdkless-dot_net-integration_kit-master 2/net45/bin/RazorpaySampleApp.dll
+/Users/soubhagyalaxmig/Downloads/razorpay-sdkless-dot_net-integration_kit-master 2/net45/bin/RazorpaySampleApp.pdb
+/Users/soubhagyalaxmig/Downloads/razorpay-sdkless-dot_net-integration_kit-master 2/net45/bin/Newtonsoft.Json.dll
+/Users/soubhagyalaxmig/Downloads/razorpay-sdkless-dot_net-integration_kit-master 2/net45/bin/Newtonsoft.Json.xml
+/Users/soubhagyalaxmig/Downloads/razorpay-sdkless-dot_net-integration_kit-master 2/net45/obj/Debug/RazorpaySampleApp45.csprojAssemblyReference.cache
+/Users/soubhagyalaxmig/Downloads/razorpay-sdkless-dot_net-integration_kit-master 2/net45/obj/Debug/RazorpaySampleApp45.csproj.CopyComplete
+/Users/soubhagyalaxmig/Downloads/razorpay-sdkless-dot_net-integration_kit-master 2/net45/obj/Debug/RazorpaySampleApp.dll
+/Users/soubhagyalaxmig/Downloads/razorpay-sdkless-dot_net-integration_kit-master 2/net45/obj/Debug/RazorpaySampleApp.pdb
+/Users/soubhagyalaxmig/Desktop/razorpay-sdkless-dot_net-integration_kit-master 2/net45/bin/RazorpaySampleApp.dll
+/Users/soubhagyalaxmig/Desktop/razorpay-sdkless-dot_net-integration_kit-master 2/net45/bin/RazorpaySampleApp.pdb
+/Users/soubhagyalaxmig/Desktop/razorpay-sdkless-dot_net-integration_kit-master 2/net45/bin/Newtonsoft.Json.dll
+/Users/soubhagyalaxmig/Desktop/razorpay-sdkless-dot_net-integration_kit-master 2/net45/bin/Newtonsoft.Json.xml
+/Users/soubhagyalaxmig/Desktop/razorpay-sdkless-dot_net-integration_kit-master 2/net45/obj/Debug/RazorpaySampleApp45.csproj.CopyComplete
+/Users/soubhagyalaxmig/Desktop/razorpay-sdkless-dot_net-integration_kit-master 2/net45/obj/Debug/RazorpaySampleApp.dll
+/Users/soubhagyalaxmig/Desktop/razorpay-sdkless-dot_net-integration_kit-master 2/net45/obj/Debug/RazorpaySampleApp.pdb
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/bin/RazorpaySampleApp.dll.config
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/bin/RazorpaySampleApp.dll
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/bin/RazorpaySampleApp.pdb
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/bin/Newtonsoft.Json.dll
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/bin/Newtonsoft.Json.xml
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/obj/Debug/RazorpaySampleApp45.csproj.CoreCompileInputs.cache
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/obj/Debug/RazorpaySampleApp45.csproj.CopyComplete
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/obj/Debug/RazorpaySampleApp.dll
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/obj/Debug/RazorpaySampleApp.pdb
+D:/Azar/assignments/RazorPay/SDKless-Kit-master/SDKless-Kit-master/net45/obj/Debug/RazorpaySampleApp45.csprojAssemblyReference.cache
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/bin/RazorpaySampleApp.dll
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/bin/RazorpaySampleApp.pdb
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/bin/Newtonsoft.Json.dll
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/bin/Newtonsoft.Json.xml
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/obj/Debug/RazorpaySampleApp45.csproj.AssemblyReference.cache
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/obj/Debug/RazorpaySampleApp45.csproj.CoreCompileInputs.cache
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/obj/Debug/RazorpaySampleApp45.csproj.CopyComplete
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/obj/Debug/RazorpaySampleApp.dll
+/Users/soubhagyalaxmi.g/Desktop/PL/net45/obj/Debug/RazorpaySampleApp.pdb

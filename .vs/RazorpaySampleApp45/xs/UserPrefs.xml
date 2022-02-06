@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1A35E324-D87F-4EA2-A574-B47F801C9D04}|">
+  <MonoDevelop.Ide.ItemProperties.RazorpaySampleApp45 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="net45/Payment.aspx.cs">
+    <Files>
+      <File FileName="net45/Payment.aspx.cs" Line="41" Column="16" />
+      <File FileName="net45/Charge.aspx.cs" Line="22" Column="50" />
+      <File FileName="net45/Payment.aspx" Line="18" Column="1" />
+      <File FileName="net45/Charge.aspx" Line="1" Column="1" />
+      <File FileName="net45/Web.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorpaySampleApp45" expanded="True">
+            <Node name="RazorpaySampleApp45" expanded="True">
+              <Node name="Charge.aspx" expanded="True" />
+              <Node name="Payment.aspx" expanded="True">
+                <Node name="Payment.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
