@@ -19,8 +19,8 @@ namespace RazorpaySampleApp
         protected void Page_Load(object sender, EventArgs e)
         {
 
-            string key = "rzp_test_2pjQoIV7c1RY6C";
-            string secret = "nWwe91xQO3NIDzJUp1mUmr9O";
+            string key = "rzp_test_xxxxx";
+            string secret = "xxxxxxxxxxx";
             //your order creation request
             var uniqnumber = Guid.NewGuid().ToString("n").Substring(0, 8);
             Dictionary<string, object> input = new Dictionary<string, object>();
